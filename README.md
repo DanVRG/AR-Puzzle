@@ -21,6 +21,6 @@ Large game with small pieces
 
 ### GIFs
 GIFs showing virtual object interactions
-![Stacking pieces](Screenshots/gif2.png)
-![Placing a virtual piece on a real table](Screenshots/gif3.png)
-![Placing a piece](Screenshots/gif4.png)
+![Stacking pieces](Screenshots/gif2.gif)
+![Placing a virtual piece on a real table](Screenshots/gif3.gif)
+![Placing a piece](Screenshots/gif4.gif)
