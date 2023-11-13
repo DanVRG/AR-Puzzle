@@ -18,3 +18,9 @@ Game state demonstrating virtual object interactions
 
 Large game with small pieces
 ![Large game in the middle of the room](Screenshots/pz3.png)
+
+### GIFs
+GIFs showing virtual object interactions
+![Stacking pieces](Screenshots/gif2.png)
+![Placing a virtual piece on a real table](Screenshots/gif3.png)
+![Placing a piece](Screenshots/gif4.png)
